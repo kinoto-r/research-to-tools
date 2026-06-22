@@ -30,6 +30,14 @@ It does not contain:
 
 Articles will be added gradually as individual Markdown files under the `articles` directory.
 
+## About the Author
+
+I am an independent researcher working under Kinoto Research.
+
+My work focuses on regulatory research, technical documentation, information structuring, and the development of practical tools that support research and operational workflows.
+
+This repository reflects my approach to turning research findings and real-world challenges into structured knowledge and usable tools.
 ## Copyright
 
 Copyright © 2026 Kinoto Research. All rights reserved.
+
