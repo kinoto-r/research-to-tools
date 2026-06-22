@@ -1,0 +1,48 @@
+﻿# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and IDE settings
+.vscode/
+.idea/
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+*.orig
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.pfx
+*.p12
+
+# Local-only content
+private/
+internal/
+local/
+drafts/
+working/
+notes-private/
+
+# Logs and generated files
+*.log
+output/
+build/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node.js
+node_modules/
